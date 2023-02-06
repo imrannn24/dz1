@@ -27,5 +27,5 @@ var person6 = Client(firstname: "Ariet", lastname: "Mamatkadyrov", cards: card6)
 
 var carty = [card1.cardNumbeer:[ card1.bill : [person1.firstname:person1.lastname]],card2.cardNumbeer:[ card2.bill : [person2.firstname:person2.lastname]],card3.cardNumbeer:[ card3.bill : [person3.firstname:person3.lastname]],card4.cardNumbeer:[ card4.bill : [person4.firstname:person4.lastname]],card5.cardNumbeer:[ card5.bill : [person5.firstname:person5.lastname]],card6.cardNumbeer:[ card6.bill : [person6.firstname:person6.lastname]]]
 
-Trans()
 
+Trans()
